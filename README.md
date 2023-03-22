@@ -400,7 +400,7 @@ gmon.out
 
 
 # Siv3D
-# exmaple Wavefront .obj files
+# example Wavefront .obj files
 !**/example/obj/
 !**/example/obj/*.obj
 
