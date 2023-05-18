@@ -1,4 +1,4 @@
-# .gitignore template for OpenSiv3D v0.6.6
+# .gitignore template for OpenSiv3D
 
 ```gitignore
 # Ignore Visual Studio temporary files, build results, and
